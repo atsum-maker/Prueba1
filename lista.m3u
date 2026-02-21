@@ -1,6 +1,17 @@
-#EXTINF:-1 tvg-id="canal1" tvg-name="aloula" group-title="maroc",Al Oula
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-name="Al Aoula" group-title="Morocco",Al Aoula
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 
+#EXTINF:-1 tvg-name="2M Monde" group-title="Morocco",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-name="Arryadia" group-title="Morocco",Arryadia (Sports)
+http://cdn-hls.globecast.tv/live/ramdisk/arryadia/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-name="Al Maghribia" group-title="Morocco",Al Maghribia
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-name="Assadissa" group-title="Morocco",Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 
 
 
